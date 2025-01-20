@@ -1,6 +1,3 @@
-### Here's a draft README file for your project:
-
-```markdown
 # C++ Compilation and Hashing Utility
 
 ## Overview
